@@ -1,0 +1,11 @@
+{
+  "name": "orionconspiracyaudio",
+  "version": "1.0.0",
+  "description": "A nodejs tool to extract the WAV files from the DAT files of the game 'The Orion Conspiracy'",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blake Robinson",
+  "license": "ISC"
+}
